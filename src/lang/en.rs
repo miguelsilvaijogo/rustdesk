@@ -7,7 +7,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("not_ready_status", "Not ready. Please check your connection"),
         ("ID/Relay Server", "ID/Relay server"),
         ("id_change_tip", "Only a-z, A-Z, 0-9, - (dash) and _ (underscore) characters allowed. The first letter must be a-z, A-Z. Length between 6 and 16."),
-        ("Slogan_tip", "Grupo ACIN - Direção de Sistemas e Redes"),
+        ("Slogan_tip", "Grupo ACIN - Direcao de Sistemas e Redes"),
         ("Build Date", "Build date"),
         ("Audio Input", "Audio input"),
         ("Hardware Codec", "Hardware codec"),
